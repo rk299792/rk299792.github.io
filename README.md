@@ -10,9 +10,11 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 [Project 1](https://rk299792.github.io/testhtml.html)
+
 ## Problem 2
 
 I implemented the SSVS algorithm below. I did not include any polynomial or interaction terms in the model. I chose 4000 as a burning period. After that, I counted the number of times each variable is selected. I chose the models with 9 variable that appeared highest number of times. 
+
 ```{r}
 library(SSVS)
 set.seed(24060)
