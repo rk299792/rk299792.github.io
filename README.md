@@ -6,9 +6,6 @@ date: "2022-12-13"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 [Project 1](https://rk299792.github.io/testhtml.html)
 
 ## Problem 2
