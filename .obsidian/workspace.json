@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Degrees of freedom.md",
+                "file": "blog/Degrees_of_freedom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Degrees of freedom"
+              "title": "Degrees_of_freedom"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Degrees of freedom.md",
+                "file": "blog/Degrees_of_freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Degrees of freedom"
+              "title": "Backlinks for Degrees_of_freedom"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/Degrees of freedom.md",
+                "file": "blog/Degrees_of_freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Degrees of freedom"
+              "title": "Outgoing links from Degrees_of_freedom"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/Degrees of freedom.md",
+                "file": "blog/Degrees_of_freedom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Degrees of freedom"
+              "title": "Outline of Degrees_of_freedom"
             }
           }
         ]
@@ -185,7 +185,7 @@
   },
   "active": "c17c96db57d12971",
   "lastOpenFiles": [
-    "blog/Degrees of freedom.md",
+    "blog/Degrees_of_freedom.md",
     "blog.md"
   ]
 }
