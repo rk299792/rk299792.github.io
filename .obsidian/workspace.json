@@ -11,14 +11,10 @@
             "id": "c17c96db57d12971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/Degrees_of_freedom.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Degrees_of_freedom"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Degrees_of_freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Degrees_of_freedom"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/Degrees_of_freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Degrees_of_freedom"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/Degrees_of_freedom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Degrees_of_freedom"
+              "title": "Outline"
             }
           }
         ]
@@ -185,8 +178,9 @@
   },
   "active": "c17c96db57d12971",
   "lastOpenFiles": [
-    "_config.yml",
     "blog/Degrees_of_freedom.md",
+    "blog/2025-12-16-Degrees_of_freedom.md",
+    "_config.yml",
     "blog.md"
   ]
 }

@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Degrees of Freedom"
+---
+
 We come across degrees of freedom in statistics everywhere. However, no particular classes dives deep in this topic. First place we encounter degrees of freedom is when discussing sample variance.  $$\hat{\sigma^2}= \frac{(X-\bar{x})^2}{n-1}$$
 Obvious question arises, why are we dividing by $n-1$ instead of $n$ . Usual answers are 
 1. Well, dividing by $n$ makes the statistics biased and in order to make in unbiased, we should divide by $n-1$ . 
