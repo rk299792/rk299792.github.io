@@ -1,4 +1,3 @@
 title: My Blog
 markdown: kramdown
-kramdown:
-  math_engine: mathjax
+theme: minima
