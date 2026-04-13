@@ -1,3 +1,17 @@
-title: My Blog
+title: Radhakrishna Adhikari
+description: A blog about statistics, probability, and data science
+url: "https://rk299792.github.io"
+author: Radhakrishna Adhikari
+
+permalink: /posts/:title/
+
 markdown: kramdown
-theme: minima
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - new-post-template.md
