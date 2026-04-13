@@ -35,4 +35,11 @@ Let's further explore degrees of freedom in other contexts.
 
 ## ANOVA 
 
-Let's take a look at the following ANOVA table. 
+Let's take a look at the following two-way ANOVA table, with factor $A$ at $a$ levels, factor $B$ at $b$ levels, and $n$ replicates per cell.
+
+| Source | df | SS | MS | F |
+|--------|----|----|-----|---|
+| $A$ | $a-1$ | $SS_A$ | $MS_A = \dfrac{SS_A}{a-1}$ | $\dfrac{MS_A}{MS_E}$ |
+| $B$ | $b-1$ | $SS_B$ | $MS_B = \dfrac{SS_B}{b-1}$ | $\dfrac{MS_B}{MS_E}$ |
+| Error | $ab(n-1)$ | $SS_E$ | $MS_E = \dfrac{SS_E}{ab(n-1)}$ | |
+| Total | $abn-1$ | $SS_T$ | | |
