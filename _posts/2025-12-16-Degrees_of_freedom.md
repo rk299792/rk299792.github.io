@@ -29,21 +29,10 @@ Given observations $X_1, X_2, \ldots, X_n$, we estimate the mean $\bar{X} = \fra
 
 $$\sum_{i=1}^{n} (X_i - \bar{X}) = 0$$
 
-This constraint means that once you know $n-1$ of the deviations, the last one is determined. So only $n-1$ pieces of information are free to vary — hence the degrees of freedom is $n-1$.
+This constraint means that once you know $n-1$ of the deviations, the last one is determined. So only $n-1$ pieces of information are free to vary (i.e number of independent pieces of information is $n-1$). Hence the degrees of freedom is $n-1$.
 
-## Example in Python
+Let's further explore degrees of freedom in other contexts. 
 
-```python
-import numpy as np
+## ANOVA 
 
-x = np.array([1, 2, 3, 4, 5])
-
-# Biased estimate (divides by n)
-var_biased = np.var(x, ddof=0)
-
-# Unbiased estimate (divides by n-1)
-var_unbiased = np.var(x, ddof=1)
-
-print(f"Biased variance:   {var_biased:.4f}")
-print(f"Unbiased variance: {var_unbiased:.4f}")
-```
+Let's take a look at the following ANOVA table. 
