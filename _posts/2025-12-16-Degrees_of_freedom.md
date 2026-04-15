@@ -61,4 +61,4 @@ I will answer first question using all three definitions of degrees of freedom.
 	$$$SS_A$ tests this hypothesis. We can see the F-test associated with this test in the ANOVA  table as well. Full model associated with this test has all $a$ parameters since they are not equal, but reduced model has all groups equal so we can write the model with only one parameter. That means the difference between the dimension of the alternative and null hypothesis parameter is $a-1$. Hence, the degrees of freedom is $a-1$. 
 
 ##Why do we care about the degrees of freedom in ANOVA? 
-First,
+First, lets check
